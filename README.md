@@ -1,5 +1,3 @@
-<img src=“https://user-images.githubusercontent.com/3791941/31036931-072760fe-a534-11e7-8cd7-0565bdc2727c.png” width=“100” height=“60”>
-
 ## Introduction to GraphQL
 
 This workshop aims to provide some introduction into what GraphQL is, how to use it to access a GraphQL API, and then to explore the GitHub API using things you've learned.
