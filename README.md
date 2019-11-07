@@ -1,4 +1,4 @@
-## Introduction to GraphQL
+## Starting out with GraphQL
 
 This workshop aims to provide some introduction into what GraphQL is, how to use it to access a GraphQL API, and then to explore the GitHub API using things you've learned.
 
@@ -6,7 +6,7 @@ This workshop aims to provide some introduction into what GraphQL is, how to use
 
 * [GitHub account](https://github.com/join) with a [verified email address](https://help.github.com/en/articles/verifying-your-email-address)
 * [GraphiQL](https://electronjs.org/apps/graphiql) or similar graphical GraphQL tool installed
-* Created a [GitHub Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for your account. Please save this token somewhere secure as you will need to use it in the workshop. *Note* Select all the scopes, or permissions available for this token.
+* Created a [GitHub Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for your account. Please save this token somewhere secure as you will need to use it in the workshop. *Note* Select all the scopes, or permissions, available for this token.
 
 ### :space_invader: Nice to Haves
 
