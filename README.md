@@ -12,3 +12,7 @@ This workshop aims to provide some introduction into what GraphQL is, how to use
 
 * Using an API - it doesn’t need to be the GitHub API or a GraphQL API
 * GitHub ([example training course](https://lab.github.com/githubtraining/introduction-to-github))
+
+### :books: Resources
+
+This is the [repository](http://bit.ly/start-with-graphql) mentioned in the Workshop. You can find links to the various resources mentioned, along with sample answers to the questions.
