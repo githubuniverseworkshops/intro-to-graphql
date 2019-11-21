@@ -15,4 +15,4 @@ This workshop aims to provide some introduction into what GraphQL is, how to use
 
 ### :books: Resources
 
-This is the [repository](http://bit.ly/start-with-graphql) mentioned in the Workshop. You can find links to the various resources mentioned, along with sample answers to the questions.
+This is the [repository](http://bit.ly/graphql-resources) mentioned in the Workshop. You can find links to the various resources mentioned, along with sample answers to the questions.
